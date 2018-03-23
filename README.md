@@ -1,3 +1,6 @@
+# No longer maintained
+:warning: **This project is no longer actively maintained.**
+
 # Damn Vulnerable Web Application [![Build Status](https://secure.travis-ci.org/rapid7-cookbooks/dvwa.png)](http://travis-ci.org/rapid7-cookbooks/dvwa)
 ## Description
 Installs Damn Vulnerable Web Application to a XAMPP installation (recommended by the DVWA documentation).
